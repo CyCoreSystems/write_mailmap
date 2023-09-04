@@ -1,3 +1,3 @@
-module github.com/kevinburke/write_mailmap
+module github.com/CyCoreSystems/write_mailmap
 
 go 1.20
